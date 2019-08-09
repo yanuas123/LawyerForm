@@ -65,4 +65,4 @@ The `forms_settings` variable contains form settings. Depending on the `id` pres
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details
